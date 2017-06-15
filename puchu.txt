@@ -1,3 +1,7 @@
 <Ohayoooo> Annyeong! </Ohayoooo>
 <kamsamnidaaa>
+<<<<<<< HEAD
 <saranghaee>
+=======
+<Locaaa>Mi loca querida y bonita eres tu</Locaaaa>
+>>>>>>> origin/master
